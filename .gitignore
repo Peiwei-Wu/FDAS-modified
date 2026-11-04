@@ -1,0 +1,8 @@
+__pycache__/
+.claude/
+.vscode/
+outputs/
+models/
+results/
+*.pyc
+.DS_Store
